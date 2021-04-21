@@ -57,6 +57,7 @@ Table of Contents
 
 ### Nodejs Backend
 [prisma](https://github.com/prisma/prisma) -- Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
+[terminus](https://github.com/godaddy/terminus) -- Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 
 #### GraphQL Surrounding
 [graphql](https://github.com/graphql/graphql-js) -- A reference implementation of GraphQL for JavaScript
