@@ -11,9 +11,9 @@ Table of Contents
 - [Archive classification](#archive-classification)
   * [Utils Helper Library](#utils-helper-library)
     + [Nodejs Surrounding](#nodejs-surrounding)
+    + [AST](#ast)
   * [Nodejs Backend](#nodejs-backend)
     + [GraphQL Surrounding](#graphql-surrounding)
-    + [AST](#ast)
   * [Focus on Certain Feature](#focus-on-certain-feature)
   * [Tutorial guide](#tutorial-guide)
 
