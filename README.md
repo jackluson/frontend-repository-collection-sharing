@@ -1,9 +1,13 @@
 # frontend-repository-collection-sharing
 a collection sharing of frontend repository
 
-- [Timeline](#Timeline)
-    + [2020-04-20](#2020-04-20)
-    + [2020-04-19](#2020-04-19)
+Table of Contents
+=================
+
+- [Timeline](#timeline)
+    + [2021-04-21](#2021-04-21)
+    + [2021-04-20](#2021-04-20)
+    + [2021-04-19](#2021-04-19)
 - [Archive classification](#archive-classification)
   * [Utils Helper Library](#utils-helper-library)
     + [Nodejs Surrounding](#nodejs-surrounding)
@@ -16,12 +20,15 @@ a collection sharing of frontend repository
 
 ## Timeline
 
-#### 2020-04-20
+#### 2021-04-21
+[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) -- Easy TOC creation for GitHub README.md
+
+#### 2021-04-20
 [ts-toolbelt](https://github.com/millsp/ts-toolbelt) -- ts-toolbelt is the largest, and most tested type library available right now, featuring +200 utilities. Our type collection packages some of the most advanced mapped types, conditional types, and recursive types on the market
 
 [type-fest](https://github.com/sindresorhus/type-fest) -- A collection of essential TypeScript types
 
-#### 2020-04-19
+#### 2021-04-19
 [sequelize](https://github.com/sequelize/sequelize) -- An easy-to-use multi SQL dialect ORM tool for Node.js
 
 > Sequelize is a promise-based Node.js ORM tool for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
