@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-22](#2021-04-22)
     + [2021-04-21](#2021-04-21)
     + [2021-04-20](#2021-04-20)
     + [2021-04-19](#2021-04-19)
@@ -19,6 +20,11 @@ Table of Contents
 
 
 ## Timeline
+
+#### 2021-04-22
+[rimraf](https://github.com/isaacs/rimraf) -- A `rm -rf` util for nodejs
+
+[bundlephobia](https://github.com/pastelsky/bundlephobia) -- 🏋️ Find out the cost of adding a new frontend dependency to your project
 
 #### 2021-04-21
 [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) -- Easy TOC creation for GitHub README.md
