@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-23](#2021-04-23)
     + [2021-04-22](#2021-04-22)
     + [2021-04-21](#2021-04-21)
     + [2021-04-20](#2021-04-20)
@@ -20,6 +21,9 @@ Table of Contents
 
 
 ## Timeline
+
+#### 2021-04-23
+[reach router](https://github.com/reach/router) -- Reach Router and it’s sibling project React Router are merging as React Router v6. In other words, Reach Router v2 and React Router v6 are the same. There is more information on the maintainers website.
 
 #### 2021-04-22
 [rimraf](https://github.com/isaacs/rimraf) -- A `rm -rf` util for nodejs
