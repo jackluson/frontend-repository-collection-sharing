@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-26](#2021-04-26)
     + [2021-04-25](#2021-04-25)
     + [2021-04-23](#2021-04-23)
     + [2021-04-22](#2021-04-22)
@@ -23,8 +24,11 @@ Table of Contents
 
 ## Timeline
 
+#### 2021-04-26
+[react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) -- This package allows users to jump to local IDE code directly from browser React component by just a simple click
+
 #### 2021-04-25
-[pro-components](https://github.com/ant-design/pro-components) -- https://github.com/ant-design/pro-components
+[pro-components](https://github.com/ant-design/pro-components) -- 🏆 Use Ant Design like a Pro!
 
 #### 2021-04-23
 [reach router](https://github.com/reach/router) -- Reach Router and it’s sibling project React Router are merging as React Router v6. In other words, Reach Router v2 and React Router v6 are the same. There is more information on the maintainers website.
