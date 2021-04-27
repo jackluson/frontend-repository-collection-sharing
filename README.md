@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-27](#2021-04-27)
     + [2021-04-26](#2021-04-26)
     + [2021-04-25](#2021-04-25)
     + [2021-04-23](#2021-04-23)
@@ -24,6 +25,8 @@ Table of Contents
 
 ## Timeline
 
+#### 2021-04-27
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books) -- 📚 Freely available programming books
 #### 2021-04-26
 [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) -- This package allows users to jump to local IDE code directly from browser React component by just a simple click
 
