@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-28](#2021-04-28)
     + [2021-04-27](#2021-04-27)
     + [2021-04-26](#2021-04-26)
     + [2021-04-25](#2021-04-25)
@@ -25,8 +26,16 @@ Table of Contents
 
 ## Timeline
 
+#### 2021-04-28
+[nconf](https://github.com/indexzero/nconf) -- Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
+
+[node-config](https://github.com/lorenwest/node-config) -- Node.js Application Configuration.
+
+[nanoid](https://github.com/ai/nanoid) —  A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+
 #### 2021-04-27
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) -- 📚 Freely available programming books
+
 #### 2021-04-26
 [react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) -- This package allows users to jump to local IDE code directly from browser React component by just a simple click
 
@@ -35,6 +44,8 @@ Table of Contents
 
 #### 2021-04-23
 [reach router](https://github.com/reach/router) -- Reach Router and it’s sibling project React Router are merging as React Router v6. In other words, Reach Router v2 and React Router v6 are the same. There is more information on the maintainers website.
+
+[immer](https://github.com/immerjs/immer) — Create the next immutable state by mutating the current one
 
 #### 2021-04-22
 [rimraf](https://github.com/isaacs/rimraf) -- A `rm -rf` util for nodejs
