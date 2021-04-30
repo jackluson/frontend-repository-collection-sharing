@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-04-30](#2021-04-30)
     + [2021-04-28](#2021-04-28)
     + [2021-04-27](#2021-04-27)
     + [2021-04-26](#2021-04-26)
@@ -25,6 +26,11 @@ Table of Contents
 
 
 ## Timeline
+#### 2021-04-30
+
+[tsconfig-paths](https://github.com/dividab/tsconfig-paths) — Load node modules according to tsconfig paths, in run-time or via API.
+
+[module-alias](https://github.com/ilearnio/module-alias) — Register aliases of directories and custom module paths in Node
 
 #### 2021-04-28
 [nconf](https://github.com/indexzero/nconf) -- Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
