@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-05-01](#2021-05-01)
     + [2021-04-30](#2021-04-30)
     + [2021-04-28](#2021-04-28)
     + [2021-04-27](#2021-04-27)
@@ -26,6 +27,10 @@ Table of Contents
 
 
 ## Timeline
+
+#### 2021-05-01
+[Github Repo Daily](https://www.notion.so/Github-Repo-Daily-98c12c300c61437e8fade0b285642f6e)
+
 #### 2021-04-30
 
 [tsconfig-paths](https://github.com/dividab/tsconfig-paths) — Load node modules according to tsconfig paths, in run-time or via API.
