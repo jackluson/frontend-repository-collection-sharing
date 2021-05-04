@@ -29,7 +29,7 @@ Table of Contents
 ## Timeline
 
 #### 2021-05-01
-[Github Repo Daily](https://www.notion.so/Github-Repo-Daily-98c12c300c61437e8fade0b285642f6e)
+[d2-admin](https://github.com/d2-projects/d2-admin) -- An elegant dashboard
 
 #### 2021-04-30
 
