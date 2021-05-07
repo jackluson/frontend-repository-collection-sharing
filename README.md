@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-05-07](#2021-05-07)
     + [2021-05-01](#2021-05-01)
     + [2021-04-30](#2021-04-30)
     + [2021-04-28](#2021-04-28)
@@ -27,6 +28,15 @@ Table of Contents
 
 
 ## Timeline
+
+#### 2021-05-07
+[react-notion](https://github.com/splitbee/react-notion) -- A fast React renderer for Notion pages
+
+[react-notion-x](https://github.com/NotionX/react-notion-x) -- Fast and accurate React renderer for Notion. TS batteries included. ⚡️
+
+[notion-api-worker](https://github.com/splitbee/notion-api-worker) -- Notion as CMS with easy API access
+
+[nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) -- Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 
 #### 2021-05-01
 [d2-admin](https://github.com/d2-projects/d2-admin) -- An elegant dashboard
