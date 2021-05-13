@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 - [Timeline](#timeline)
+    + [2021-05-13](#2021-05-13)
     + [2021-05-07](#2021-05-07)
     + [2021-05-01](#2021-05-01)
     + [2021-04-30](#2021-04-30)
@@ -17,6 +18,7 @@ Table of Contents
     + [2021-04-21](#2021-04-21)
     + [2021-04-20](#2021-04-20)
     + [2021-04-19](#2021-04-19)
+  
 - [Archive classification](#archive-classification)
   * [Utils Helper Library](#utils-helper-library)
     + [Nodejs Surrounding](#nodejs-surrounding)
@@ -28,6 +30,13 @@ Table of Contents
 
 
 ## Timeline
+
+#### 2021-05-13
+[blessed-contrib](https://github.com/yaronn/blessed-contrib)— Build terminal dashboards using ascii/ansi art and javascript
+
+[ink](https://github.com/vadimdemedes/ink) — 🌈 React for interactive command-line apps
+
+[xterm](https://github.com/xtermjs/xterm.js) —  A terminal for the web
 
 #### 2021-05-07
 [react-notion](https://github.com/splitbee/react-notion) -- A fast React renderer for Notion pages
