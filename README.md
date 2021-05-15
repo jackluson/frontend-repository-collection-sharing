@@ -4,7 +4,7 @@ a collection sharing of frontend repository
 
 # Table of Contents
 
-- [Acchive](#acchive)
+- [Archive](#archive)
 - [Timeline](#timeline)
   - [2021-05-15](#2021-05-15)
   - [2021-05-13](#2021-05-13)
@@ -21,7 +21,7 @@ a collection sharing of frontend repository
   - [React](#react)
   - [Tutorial guide](#tutorial-guide)
 
-## Acchive
+## Archive
 
 [2021-04](./archive/2021-04.md)
 
