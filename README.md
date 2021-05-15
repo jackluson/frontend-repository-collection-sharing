@@ -32,16 +32,21 @@ Table of Contents
 
 ## Timeline
 #### 2021-05-15
-[react-use](https://github.com/streamich/react-use) — React Hooks — 👍
+[react-use](https://github.com/streamich/react-use) — React Hooks — 👍 
+<a href="https://github.com/streamich/react-use/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/streamich/react-use.svg?style=social"></a>
 
 [ahook](https://github.com/alibaba/hooks) — React Hooks Library
+<a href="https://github.com/alibaba/hooks/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/alibaba/hooks.svg?style=social"></a>
 
 #### 2021-05-13
-[blessed-contrib](https://github.com/yaronn/blessed-contrib)— Build terminal dashboards using ascii/ansi art and javascript
+[blessed-contrib](https://github.com/yaronn/blessed-contrib)— Build terminal dashboards using ascii/ansi art and javascript 
+<a href="https://github.com/yaronn/blessed-contrib/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/yaronn/blessed-contrib.svg?style=social"></a>
 
 [ink](https://github.com/vadimdemedes/ink) — 🌈 React for interactive command-line apps
+<a href="https://github.com/vadimdemedes/ink/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/vadimdemedes/ink.svg?style=social"></a>
 
 [xterm](https://github.com/xtermjs/xterm.js) —  A terminal for the web
+<a href="https://github.com/xtermjs/xterm.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/xtermjs/xterm.js.svg?style=social"></a>
 
 #### 2021-05-07
 [react-notion](https://github.com/splitbee/react-notion) -- A fast React renderer for Notion pages
