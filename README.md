@@ -36,6 +36,9 @@ a collection sharing of frontend repository
 [react-testing-library](https://github.com/testing-library/react-testing-library) — 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 <a href="https://github.com/testing-library/react-testing-library/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social"></a>
 
+[msw](https://github.com/mswjs/msw) — Seamless REST/GraphQL API mocking library for browser and Node.js.
+<a href="https://github.com/mswjs/msw/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/mswjs/msw.svg?style=social"></a>
+
 #### 2021-05-15
 
 [react-use](https://github.com/streamich/react-use) — React Hooks — 👍
