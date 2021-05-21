@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-05-20](#2021-05-20)
   - [2021-05-18](#2021-05-18)
   - [2021-05-15](#2021-05-15)
   - [2021-05-13](#2021-05-13)
@@ -27,6 +28,26 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-05-20
+
+[echarts](https://github.com/apache/echarts) — Apache ECharts is a powerful, interactive charting and data visualization library for browser
+<a href="https://github.com/apache/echarts/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/apache/echarts.svg?style=social"></a>
+
+[chartjs](https://github.com/chartjs/Chart.js) — Simple HTML5 Charts using the <canvas> tag
+<a href="https://github.com/chartjs/Chart.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/chartjs/Chart.js.svg?style=social"></a>
+
+[highcharts](https://github.com/highcharts/highcharts) — Highcharts JS, the JavaScript charting framework
+<a href="https://github.com/highcharts/highcharts/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/highcharts/highcharts.svg?style=social"></a>
+
+[G2](https://github.com/antvis/G2) — 📊 A highly interactive data-driven visualization grammar for statistical charts.
+<a href="https://github.com/antvis/G2/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/antvis/G2.svg?style=social"></a>
+
+[G6](https://github.com/antvis/G6) — ♾ A Graph Visualization Framework in JavaScript
+<a href="https://github.com/antvis/G6/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/antvis/G6.svg?style=social"></a>
+
+[BizCharts](https://github.com/alibaba/BizCharts) — Powerful data visualization library based on G2 and React.
+<a href="https://github.com/alibaba/BizCharts/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social"></a>
 
 #### 2021-05-18
 
