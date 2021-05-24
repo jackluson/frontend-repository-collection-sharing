@@ -32,6 +32,9 @@ a collection sharing of frontend repository
 
 #### 2021-05-24
 
+[ts-jest](https://github.com/kulshekhar/ts-jest) — A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+<a href="https://github.com/kulshekhar/ts-jest/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/kulshekhar/ts-jest.svg?style=social"></a>
+
 [chakra-ui](https://github.com/chakra-ui/chakra-ui) — ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 <a href="https://github.com/chakra-ui/chakra-ui/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=social"></a>
 
