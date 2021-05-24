@@ -35,6 +35,12 @@ a collection sharing of frontend repository
 [chakra-ui](https://github.com/chakra-ui/chakra-ui) — ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 <a href="https://github.com/chakra-ui/chakra-ui/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=social"></a>
 
+[styled-components](https://github.com/styled-components/styled-components) — Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+<a href="https://github.com/styled-components/styled-components/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/styled-components/styled-components.svg?style=social"></a>
+
+[emotion](https://github.com/emotion-js/emotion) — 👩‍🎤 CSS-in-JS library designed for high performance style composition
+<a href="https://github.com/emotion-js/emotion/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/emotion-js/emotion.svg?style=social"></a>
+
 #### 2021-05-20
 
 [echarts](https://github.com/apache/echarts) — Apache ECharts is a powerful, interactive charting and data visualization library for browser
