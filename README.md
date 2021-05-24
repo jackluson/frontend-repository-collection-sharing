@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-05-24](#2021-05-24)
   - [2021-05-20](#2021-05-20)
   - [2021-05-18](#2021-05-18)
   - [2021-05-15](#2021-05-15)
@@ -28,6 +29,11 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-05-24
+
+[chakra-ui](https://github.com/chakra-ui/chakra-ui) — ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+<a href="https://github.com/chakra-ui/chakra-ui/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=social"></a>
 
 #### 2021-05-20
 
