@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-05-26](#2021-05-26)
   - [2021-05-24](#2021-05-24)
   - [2021-05-20](#2021-05-20)
   - [2021-05-18](#2021-05-18)
@@ -29,6 +30,11 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-05-26
+
+[istanbul](https://github.com/gotwarlost/istanbul) — Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.
+<a href="https://github.com/gotwarlost/istanbul/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/gotwarlost/istanbul.svg?style=social"></a>
 
 #### 2021-05-24
 
