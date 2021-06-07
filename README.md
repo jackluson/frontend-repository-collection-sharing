@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-06-07](#2021-06-07)
   - [2021-05-26](#2021-05-26)
   - [2021-05-24](#2021-05-24)
   - [2021-05-20](#2021-05-20)
@@ -30,6 +31,14 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-06-07
+
+[markdown-it](https://github.com/markdown-it/markdown-it) — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+<a href="https://github.com/markdown-it/markdown-it/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/markdown-it/markdown-it.svg?style=social"></a>
+
+[marked](https://github.com/markedjs/marked) — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+<a href="https://github.com/markedjs/marked/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/markedjs/marked.svg?style=social"></a>
 
 #### 2021-05-26
 
