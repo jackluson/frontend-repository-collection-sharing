@@ -34,10 +34,13 @@ a collection sharing of frontend repository
 
 #### 2021-06-07
 
+[slidev](https://github.com/slidevjs/slidev) — Presentation Slides for Developers (Beta)
+<a href="https://github.com/slidevjs/slidev/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social"></a>
+
 [markdown-it](https://github.com/markdown-it/markdown-it) — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 <a href="https://github.com/markdown-it/markdown-it/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/markdown-it/markdown-it.svg?style=social"></a>
 
-[marked](https://github.com/markedjs/marked) — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+[marked](https://github.com/markedjs/marked) — A markdown parser and compiler. Built for speed.
 <a href="https://github.com/markedjs/marked/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/markedjs/marked.svg?style=social"></a>
 
 #### 2021-05-26
