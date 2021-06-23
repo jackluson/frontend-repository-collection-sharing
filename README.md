@@ -34,6 +34,13 @@ a collection sharing of frontend repository
 
 #### 2021-06-07
 
+[unstated](https://github.com/jamiebuilds/unstated) — State so simple, it goes without saying
+<a href="https://github.com/jamiebuilds/unstated/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/jamiebuilds/unstated.svg?style=social"></a>
+
+
+[unstated-next](https://github.com/jamiebuilds/unstated-next) — 200 bytes to never think about React state management libraries ever again
+<a href="https://github.com/jamiebuilds/unstated-next/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/jamiebuilds/unstated-next.svg?style=social"></a>
+
 [slidev](https://github.com/slidevjs/slidev) — Presentation Slides for Developers (Beta)
 <a href="https://github.com/slidevjs/slidev/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social"></a>
 
