@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-07-05](#2021-07-05)
   - [2021-06-07](#2021-06-07)
   - [2021-05-26](#2021-05-26)
   - [2021-05-24](#2021-05-24)
@@ -31,6 +32,14 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-07-05
+[monaco-editor](https://github.com/Microsoft/monaco-editor) — A browser based code editor
+<a href="https://github.com/Microsoft/monaco-editor/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Microsoft/monaco-editor.svg?style=social"></a>
+
+[react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) — Monaco Editor for React.
+<a href="https://github.com/react-monaco-editor/react-monaco-editor/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/react-monaco-editor/react-monaco-editor.svg?style=social"></a>
+
 
 #### 2021-06-07
 
