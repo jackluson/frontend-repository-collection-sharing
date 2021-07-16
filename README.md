@@ -7,6 +7,7 @@ a collection sharing of frontend repository
 - [Archive](#archive)
 - [Timeline](#timeline)
   - [2021-07-05](#2021-07-05)
+  - [2021-07-16](#2021-07-16)
   - [2021-06-07](#2021-06-07)
   - [2021-05-26](#2021-05-26)
   - [2021-05-24](#2021-05-24)
@@ -32,6 +33,11 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+#### 2021-07-16
+[dayjs](https://github.com/iamkun/dayjs) — ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+<a href="https://github.com/iamkun/dayjs/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/iamkun/dayjs.svg?style=social"></a>
+
 
 #### 2021-07-05
 [monaco-editor](https://github.com/Microsoft/monaco-editor) — A browser based code editor
