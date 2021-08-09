@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-08-09](#2021-08-09)
   - [2021-08-04](#2021-08-04)
   - [2021-07-27](#2021-07-27)
   - [2021-07-16](#2021-07-16)
@@ -36,8 +37,12 @@ a collection sharing of frontend repository
 
 ## Timeline
 
+### 2021-08-09
+[highlight.js](https://github.com/highlightjs/highlight.js) — JavaScript syntax highlighter with language auto-detection and zero dependencies.
+<a href="https://github.com/highlightjs/highlight.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/highlightjs/highlight.js.svg?style=social"></a>
+
 ### 2021-08-04
-[commander.js](https://github.com/tj/commander.js) — Test spies, stubs and mocks for JavaScript.
+[commander.js](https://github.com/tj/commander.js) — node.js command-line interfaces made easy
 <a href="https://github.com/tj/commander.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/tj/commander.js.svg?style=social"></a>
 
 ### 2021-07-27
