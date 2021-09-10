@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-09-10](#2021-09-10)
   - [2021-08-09](#2021-08-09)
   - [2021-08-04](#2021-08-04)
   - [2021-07-27](#2021-07-27)
@@ -36,6 +37,13 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-09-10
+[vue-test-utils](https://github.com/vuejs/vue-test-utils) — 🔬 Utilities for testing Vue components
+<a href="https://github.com/vuejs/vue-test-utils/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-test-utils.svg?style=social"></a>
+
+[vue-testing-library](https://github.com/testing-library/vue-testing-library) — 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
+<a href="https://github.com/testing-library/vue-testing-library/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/testing-library/vue-testing-library.svg?style=social"></a>
 
 ### 2021-08-09
 [highlight.js](https://github.com/highlightjs/highlight.js) — JavaScript syntax highlighter with language auto-detection and zero dependencies.
