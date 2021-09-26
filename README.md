@@ -38,6 +38,13 @@ a collection sharing of frontend repository
 
 ## Timeline
 
+### 2021-09-26
+[unplugin](https://github.com/unjs/unplugin) — Unified plugin system for Vite, Rollup, Webpack, and more
+<a href="https://github.com/unjs/unplugin/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/unjs/unplugin.svg?style=social"></a>
+
+[patch-package](https://github.com/ds300/patch-package) — Fix broken node modules instantly 🏃🏽‍♀️💨
+<a href="https://github.com/ds300/patch-package/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/ds300/patch-package.svg?style=social"></a>
+
 ### 2021-09-10
 [vue-test-utils](https://github.com/vuejs/vue-test-utils) — 🔬 Utilities for testing Vue components
 <a href="https://github.com/vuejs/vue-test-utils/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-test-utils.svg?style=social"></a>
