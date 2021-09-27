@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-09-27](#2021-09-27)
   - [2021-09-26](#2021-09-26)
   - [2021-09-10](#2021-09-10)
   - [2021-08-09](#2021-08-09)
@@ -38,6 +39,26 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-09-27
+
+[xgplayer](https://github.com/bytedance/xgplayer) — A HTML5 video player with a parser that saves traffic
+<a href="https://github.com/bytedance/xgplayer/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/bytedance/xgplayer.svg?style=social"></a>
+
+[push.js](https://github.com/Nickersoft/push.js) — The world's most versatile desktop notifications framework 🌎
+<a href="https://github.com/Nickersoft/push.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Nickersoft/push.js.svg?style=social"></a>
+
+[lottie-web](https://github.com/airbnb/lottie-web) — Render After Effects animations natively on Web, Android and iOS, and React Native.
+<a href="https://github.com/airbnb/lottie-web/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/airbnb/lottie-web.svg?style=social"></a>
+
+
+[react-lottie-player](https://github.com/airbnb/lottie-web) — Fully declarative React Lottie player
+<a href="https://github.com/mifi/react-lottie-player/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/mifi/react-lottie-player.svg?style=social"></a>
+
+
+[crypto-js](https://github.com/brix/crypto-js) — Render After Effects animations natively on Web, Android and iOS, and React Native.
+<a href="https://github.com/brix/crypto-js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/brix/crypto-js.svg?style=social"></a>
+
 
 ### 2021-09-26
 [unplugin](https://github.com/unjs/unplugin) — Unified plugin system for Vite, Rollup, Webpack, and more
