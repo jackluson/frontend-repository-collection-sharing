@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-09-29](#2021-09-29)
   - [2021-09-27](#2021-09-27)
   - [2021-09-26](#2021-09-26)
   - [2021-09-10](#2021-09-10)
@@ -39,6 +40,17 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-09-29
+
+[hotkeys-js](https://github.com/jaywcjlove/hotkeys) — ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+<a href="https://github.com/jaywcjlove/hotkeys/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/jaywcjlove/hotkeys.svg?style=social"></a>
+
+[screenfulljs](https://github.com/sindresorhus/screenfull.js) — Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+<a href="https://github.com/sindresorhus/screenfull.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/screenfull.js.svg?style=social"></a>
+
+[fscreen](https://github.com/rafgraph/fscreen) — Vendor agnostic access to the Fullscreen API
+<a href="https://github.com/rafgraph/fscreen/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/rafgraph/fscreen.svg?style=social"></a>
 
 ### 2021-09-27
 
