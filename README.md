@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-09-30](#2021-09-30)
   - [2021-09-29](#2021-09-29)
   - [2021-09-27](#2021-09-27)
   - [2021-09-26](#2021-09-26)
@@ -40,6 +41,15 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-09-30
+
+[ws](https://github.com/websockets/ws) — Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+<a href="https://github.com/websockets/ws/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/websockets/ws.svg?style=social"></a>
+
+[socket.io](https://github.com/socketio/socket.io) — Realtime application framework (Node.JS server)
+<a href="https://github.com/websockets/ws/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/socketio/socket.io.svg?style=social"></a>
+
 
 ### 2021-09-29
 
