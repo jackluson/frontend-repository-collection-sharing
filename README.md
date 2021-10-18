@@ -48,6 +48,12 @@ a collection sharing of frontend repository
 [vueuse](https://github.com/vueuse/vueuse) — Collection of essential Vue Composition Utilities for Vue 2 and 3
 <a href="https://github.com/vueuse/vueuse/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/vueuse/vueuse.svg?style=social"></a>
 
+[vue-composable](https://github.com/pikax/vue-composable) — Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
+<a href="https://github.com/pikax/vue-composable/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/pikax/vue-composable.svg?style=social"></a>
+
+[pinia](https://github.com/posva/pinia) — 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+<a href="https://github.com/posva/pinia/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/posva/pinia.svg?style=social"></a>
+
 
 ### 2021-09-30
 
