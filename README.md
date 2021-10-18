@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-10-18](#2021-10-18)
   - [2021-09-30](#2021-09-30)
   - [2021-09-29](#2021-09-29)
   - [2021-09-27](#2021-09-27)
@@ -41,6 +42,12 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-10-18
+
+[vueuse](https://github.com/vueuse/vueuse) — Collection of essential Vue Composition Utilities for Vue 2 and 3
+<a href="https://github.com/vueuse/vueuse/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/vueuse/vueuse.svg?style=social"></a>
+
 
 ### 2021-09-30
 
