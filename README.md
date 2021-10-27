@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-10-27](#2021-10-27)
   - [2021-10-18](#2021-10-18)
   - [2021-09-30](#2021-09-30)
   - [2021-09-29](#2021-09-29)
@@ -42,6 +43,12 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-10-27
+
+[interact.js](https://github.com/taye/interact.js) — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
+<a href="https://github.com/taye/interact.js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/taye/interact.js.svg?style=social"></a>
+
 
 ### 2021-10-18
 
