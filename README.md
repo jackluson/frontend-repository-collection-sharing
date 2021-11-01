@@ -6,6 +6,7 @@ a collection sharing of frontend repository
 
 - [Archive](#archive)
 - [Timeline](#timeline)
+  - [2021-11-01](#2021-11-01)
   - [2021-10-27](#2021-10-27)
   - [2021-10-18](#2021-10-18)
   - [2021-09-30](#2021-09-30)
@@ -43,6 +44,10 @@ a collection sharing of frontend repository
 [2021-04](./archive/2021-04.md)
 
 ## Timeline
+
+### 2021-11-01
+[windicss](https://github.com/windicss/windicss) — Next generation utility-first CSS framework.
+<a href="https://github.com/windicss/windicss/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/windicss/windicss.svg?style=social"></a>
 
 ### 2021-10-27
 
